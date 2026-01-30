@@ -1,0 +1,7 @@
+{
+  "name": "Bubble Timer Pro",
+  "description": "A sophisticated floating timer application featuring customizable presets, local audio alerts, and high-quality AI-powered text-to-speech notifications.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
